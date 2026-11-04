@@ -1,0 +1,6 @@
+eksctl_Linux_amd64.tar.gz
+.env
+.env.*
+.aws/
+.kube/
+*.pem
