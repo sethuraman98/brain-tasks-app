@@ -118,7 +118,7 @@ Before starting the deployment, ensure the following are available:
 ## Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Vennilavanguvi/Brain-Tasks-App.git
 cd Brain-Tasks-App
 ```
 
