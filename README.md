@@ -520,4 +520,4 @@ The Brain Tasks application was:
 
 **Author:** Sethu Raman C
 
-**GitHub Repository:** <YOUR_GITHUB_REPOSITORY_URL>
+**GitHub Repository:** https://github.com/sethuraman98/brain-tasks-app
